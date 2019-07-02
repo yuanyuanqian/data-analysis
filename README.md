@@ -1,1 +1,3 @@
-#### to record my practice of data analysis
+## To record my practice of data analysis 
+## From establishing analysis objectives to completing the report (2019/08/15)
+#### today is the first day...nothing happened...
